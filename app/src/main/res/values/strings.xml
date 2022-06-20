@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">onBoarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="büyük">Dört büyükler</string>
+
+    <string name="description1">19 Mart 1903, Beşiktaş</string>
+    <string name="description2">3 Mayıs 1907, Fenerbahçe</string>
+    <string name="description3">1 Ekim 1905,Galatasaray </string>
+    <string name="description4">2 Ağustos 1967, Trabzon </string>
+
+    <string name="get_started">Get Started</string>
+
+
+    <string name="on_boarding_title1">Beşiktaş Jimnastik Kulübü</string>
+    <string name="on_boarding_title2">Fenerbahçe SK</string>
+    <string name="on_boarding_title3">Galatasaray SK</string>
+    <string name="on_boarding_title4">Trabzonspor SK</string>
+    <string name="skip">skip</string>
+
+</resources>
